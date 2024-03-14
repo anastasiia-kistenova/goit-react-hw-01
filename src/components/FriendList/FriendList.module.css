@@ -1,0 +1,14 @@
+.statsList {
+    display: flex;
+    gap: 30px;
+    margin: 20px;
+}
+
+.statsList li {
+     border: 1px solid rgb(35, 37, 35);
+     border-radius: 5%;
+     padding: 15px;
+     display: flex;
+    text-align: center;
+    
+}
